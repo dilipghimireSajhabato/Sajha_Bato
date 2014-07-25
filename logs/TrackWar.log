@@ -1,0 +1,17 @@
+[INFO_|07/23 19:13:04|OSTools.printMemoryUsage:1066] Memory-Mb: Max=885.4, Total=79.1, Free=26.9, Used=52.2 [6%]
+[INFO_|07/23 19:13:07|RTConfigContextListener.contextInitialized:215] java.awt.headless=false
+[INFO_|07/23 19:13:17|RTConfigContextListener.contextDestroyed:247] Remaining pool threads [0]: 0
+[INFO_|07/23 19:13:17|RTConfigContextListener.contextDestroyed:250] ... Servlet Context destroyed: TrackWar
+[INFO_|07/23 19:13:17|RTConfigContextListener.contextDestroyed:251] -----------------------------------------------
+[INFO_|07/23 19:13:25|OSTools.printMemoryUsage:1066] Memory-Mb: Max=885.4, Total=125.3, Free=97.9, Used=27.4 [3%]
+[INFO_|07/23 19:13:26|RTConfigContextListener.contextInitialized:215] java.awt.headless=false
+[INFO_|07/23 19:14:03|RTConfigContextListener.contextDestroyed:247] Remaining pool threads [0]: 0
+[INFO_|07/23 19:14:03|RTConfigContextListener.contextDestroyed:250] ... Servlet Context destroyed: TrackWar
+[INFO_|07/23 19:14:03|RTConfigContextListener.contextDestroyed:251] -----------------------------------------------
+[INFO_|07/23 19:14:18|OSTools.printMemoryUsage:1066] Memory-Mb: Max=885.4, Total=80.2, Free=48.9, Used=31.3 [4%]
+[INFO_|07/23 19:14:19|RTConfigContextListener.contextInitialized:215] java.awt.headless=false
+[INFO_|07/23 19:14:46|RTConfigContextListener.contextDestroyed:247] Remaining pool threads [0]: 0
+[INFO_|07/23 19:14:46|RTConfigContextListener.contextDestroyed:250] ... Servlet Context destroyed: TrackWar
+[INFO_|07/23 19:14:46|RTConfigContextListener.contextDestroyed:251] -----------------------------------------------
+[INFO_|07/23 19:16:38|OSTools.printMemoryUsage:1066] Memory-Mb: Max=885.4, Total=75.3, Free=44.5, Used=30.8 [3%]
+[INFO_|07/23 19:16:40|RTConfigContextListener.contextInitialized:215] java.awt.headless=false
